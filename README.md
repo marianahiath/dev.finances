@@ -1,0 +1,21 @@
+# dev.finance$
+
+Dev.finances is a control finances aplication developed during [Maratona Discover](https://app.rocketseat.com.br/node/maratona-discover-edicao-01/lesson/aula-01), promoted by Rocketseat.
+
+some nice points:
+
+- Build with HTML, CSS and JavaScript;
+
+- It's responsive;
+
+- You can add and remove your earnings and expenses;
+
+- The information you add keep saved into browser's local storage.
+
+**The best of all:** you can use it by clicking [here](https://marianahiath.github.io/maratona-discover-front-end/)!
+
+## mobile behavior
+![image](https://lh3.googleusercontent.com/uPSbNmEMDh3fcNlH4rFE_XfgWILmY2MDK-ohC31rdKY7_FEF7L4CsuOGD6G2bPMe5dApONZMs_jC0fCDFvpZpHUBa8CP4lgZI-zSd2bh_444SpMLlM5bIvEHE5wHC1ISua3y-kTj5EukEheP7O-A5Zjgw9oS5fNyzVF7-vHrMyvgiq3AnYXD845nioLPZBMvpK7WowEQPIIE03vTIIbauK4DkfdZvZW4iCrpj8COCHOJrcdTbAt2aWRxdu0GEeX6l7BqvgBUkeW0uZsvfPQoqReFGaOfEcmeBPlewwifxZifz6FyECVHnKnBhYpuwUiro_8QrxmMC06qDRfc4l5UAV8P2ps8240VNUnEhpHuAgigRdU4wHIsNm_VjoizsavaA9EfsQC1g99ZV1A0pF66b-TKB9DZwZzXDE1FajawStKt2l-0gPET8wMcL7aDQ8tFeK6b_aNpoPVf59uhsmFx-JY0rYlkn0dmxJq1SjcUmlHG6xoXScuE0wsde1J4jpZv8VqIvbQ9t9txMYiYkh33q5NP-MlhOL1e97B9UEzMXbqaojGXuU7ZT3rdj_LaDyWwjdb3B9w0wqGtsYP740Mj5BZS5CKSkedtHob-7q2Vggg2dVNvHm-A42fslB9GM7QL17ouyAVMHhj0Uf39OnbBFDyNwtNVcscxVEiFYxnVjj8nfp4vyPfic6kHWAIb47soOL36Qos0rLMATGkV-4z9MhmD=w306-h620-no?authuser=0)
+
+## desktop behavior
+![image](https://lh3.googleusercontent.com/_gQ4_t6_2-vXKdAmXhL2Cw6eLgYQL6rNohD1xt_KR8m7huTDjJ9DhDOmfWlMuoP35MgnSZJLgNZW25O3DS0Fn47bILYEUWyVL0l4iJyTgaTiEK-3Ymo8DI9e1AEyBbm5PGbNBHqqeD-MQGMV2qaPd4lbEJI7irDK3p6_-lLeR-kMxZMopxi6w5aMcvmJ4ELYPFZwGER5SbM3lmSHR89s83s_1Idlv4JpKrk4rXo5yYjSCqTfIVYwA0DimHX16R3wmexa196ZmlVmYVbjiSGtUb5j8stFG0Klokl9pZV9FlFOEF4V48dLlxFH6UJgVQJVGImhu0z1NxBVontSlfg_gdYbCmvAHz1V37q8p4RxC6LkOd7MxpTU-bOb0JpRzmdMG81yHWFN4OOmowA3_K4iEsk3yG7B4fBf2KRpGlqfhxZYlcOsU6VYR6JNIakmwuLhZcFVh8xO-sN674LMibNd57IxU0ZZ78XUNMkxNep01XN35HH3bR2UwoU6H_BMx9eZDUncOS9Xoe-LNLYuwp9HNca6zKrhocLokVgFuH5Q_-I0FjY82J-QG2pYLsEb2yeEB8UN1IW7YJUyF1B8VXLGYaHSZGMxQ8bf-TaRcPMaXHZZwQ4WH8ljvrxj2w8jDZ7_l6WkoVv67nUcIifUv9VBfLYY0oS4mdY6VYzreaSwdDAmrxd0ngOdGrCpIYOIh2KqnPfsrQeSVodTwAdWFIAxZk6H=w802-h609-no?authuser=0)
